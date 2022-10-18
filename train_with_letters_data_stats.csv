@@ -1,0 +1,21 @@
+ARC_JSON_FILEPATHS_TO_INCLUDE 
+/Users/Acer/.arc/cache/dataset/all_train_permute_to_test, 3155
+/Users/Acer/.arc/cache/dataset/discriminator, 490
+/Users/Acer/.arc/cache/dataset/discriminator_4_epochs, 10109
+/Users/Acer/.arc/cache/dataset/permuted_arc_riddles-rotate_and_reflect, 3155
+/Users/Acer/.arc/cache/dataset/permuted_arc_riddles-double_input, 3155
+/Users/Acer/.arc/cache/dataset/2000_dungeon-permuted_colors_no_bg_change_more_colors, 2000
+/Users/Acer/.arc/cache/dataset/color_to_shape, 596
+/Users/Acer/.arc/cache/dataset/color_to_shape_riddles-double_input, 596
+/Users/Acer/.arc/cache/dataset/permutated_arc-permuted_colors, 3155
+/Users/Acer/.arc/cache/dataset/cc_pr_rand_grid_size_for_arc_5x5_min/color_change, 2000
+/Users/Acer/.arc/cache/dataset/cc_pr_rand_grid_size_for_arc_5x5_min/combined_pr_cc, 2000
+/Users/Acer/.arc/cache/dataset/cc_pr_rand_grid_size_for_arc_5x5_min/pixel_removal, 2039
+/Users/Acer/.arc/cache/dataset/4000_sort_of_ARC_rnd_grid_size_and_input_brds, 4000
+ARC_JSON_FILEPATHS_TO_EXCLUDE 
+/Users/Acer/Desktop/ARC Challenge/Data/test/, 3155
+augmentations applied
+    none  noise
+0  37222  37222
+files_filtered_out, 0
+total training examples, 74444
